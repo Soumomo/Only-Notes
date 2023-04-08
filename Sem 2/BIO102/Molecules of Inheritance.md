@@ -1,7 +1,7 @@
 ## Evidence That DNA Can Transform Bacteria
 
 **Frederick Griffith** was trying to develop a vaccine against pneumonia. He was
-studying *Streptococcus pneumoniae*.  He had one pathogenic (disease-causing) and one non-pathogenic (harmless). He found that when he killed the pathogenic bacteria with heat and then mixed the cell remains with living bacteria of the non-pathogenic strain, some of the living cells became pathogenic. He callled it transformation, a change in genotype and phenotype due to the assimilation of external DNA by a cell. Later work by Oswald Avery, Maclyn McCarty, and Colin MacLeod. ![[/home/soumadip/Documents/Notes and stuff/Only-Notes/Sem 2/HSS102/In/Pasted image 20230408110617.png]]
+studying *Streptococcus pneumoniae*.  He had one pathogenic (disease-causing) and one non-pathogenic (harmless). He found that when he killed the pathogenic bacteria with heat and then mixed the cell remains with living bacteria of the non-pathogenic strain, some of the living cells became pathogenic. He callled it transformation, a change in genotype and phenotype due to the assimilation of external DNA by a cell. Later work by Oswald Avery, Maclyn McCarty, and Colin MacLeod. ![[/Sem 2/BIO102/Img/Pasted image 20230408110617.png]]
 
 
 
@@ -33,7 +33,7 @@ In this model, the two sugar-phosphate backbones are antiparallel—that is, the
 4. **Primer:** Short RNA chain used to start replication. **Primase** synthesises them.
 5. **DNA Polymerase :** catalyse the synthesis of new DNA by adding nucleotides to the 3' end of the new chain
 
-![[Pasted image 20230408143216.png]]
+![[/Sem 2/BIO102/Img/Pasted image 20230408143216.png]]
 
 ### Anti-parallel Elongation
 
@@ -52,7 +52,9 @@ In this model, the two sugar-phosphate backbones are antiparallel—that is, the
 7. Done!
 
 
-![[Pasted image 20230408145751.png]]
+![[/Sem 2/BIO102/Img/Pasted image 20230408145751.png]]
 
 ## Proofreading and Repairing DNA
 
+* DNA polymerases proofread each nucleotide, and removes incorrect ones
+* Mismatched nucleotides are evaded from them. Thus, **mismatch repair** is done b
