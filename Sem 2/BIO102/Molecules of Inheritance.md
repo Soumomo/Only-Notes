@@ -57,4 +57,8 @@ In this model, the two sugar-phosphate backbones are antiparallel—that is, the
 ## Proofreading and Repairing DNA
 
 * DNA polymerases proofread each nucleotide, and removes incorrect ones
-* Mismatched nucleotides are evaded from them. Thus, **mismatch repair** is done b
+* Mismatched nucleotides are evaded from them. Thus, **mismatch repair** is done by enzymes.
+
+## Telomeres
+
+* 
