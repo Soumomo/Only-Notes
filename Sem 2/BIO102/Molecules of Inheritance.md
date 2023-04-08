@@ -1,7 +1,7 @@
 ## Evidence That DNA Can Transform Bacteria
 
 **Frederick Griffith** was trying to develop a vaccine against pneumonia. He was
-studying *Streptococcus pneumoniae*.  He had one pathogenic (disease-causing) and one non-pathogenic (harmless). He found that when he killed the pathogenic bacteria with heat and then mixed the cell remains with living bacteria of the non-pathogenic strain, some of the living cells became pathogenic. He callled it transformation, a change in genotype and phenotype due to the assimilation of external DNA by a cell. Later work by Oswald Avery, Maclyn McCarty, and Colin MacLeod. ![[Pasted image 20230408110617.png]]
+studying *Streptococcus pneumoniae*.  He had one pathogenic (disease-causing) and one non-pathogenic (harmless). He found that when he killed the pathogenic bacteria with heat and then mixed the cell remains with living bacteria of the non-pathogenic strain, some of the living cells became pathogenic. He callled it transformation, a change in genotype and phenotype due to the assimilation of external DNA by a cell. Later work by Oswald Avery, Maclyn McCarty, and Colin MacLeod. ![[/home/soumadip/Documents/Notes and stuff/Only-Notes/Sem 2/HSS102/In/Pasted image 20230408110617.png]]
 
 
 
