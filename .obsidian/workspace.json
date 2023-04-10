@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/BIO102/Meiosis.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/BIO102/Meiosis.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/BIO102/Meiosis.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/BIO102/Meiosis.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +160,8 @@
   },
   "active": "28c4fd99d859ef47",
   "lastOpenFiles": [
-    "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/Meiosis.md",
+    "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/biosyll.md",
     "Sem 2/BIO102/BIOLOGY CAMPBELLap_biology_complete_test_bank_8th_ed.pdf",
     "Sem 2/MTH102/Assignment.2.part1..pdf",
