@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,6 @@
   },
   "active": "5a10ece22bd1adfc",
   "lastOpenFiles": [
-    "Sem 2/BIO102/biosyll.md",
-    "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
     "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/img"
   ]
