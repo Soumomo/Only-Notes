@@ -21,4 +21,6 @@ $$\nabla. \vec{J}=0$$
 * Suppose current is not steady, then J is a function of t,x,y,z. Then, since J.da as integral is the rate at which charge leaves the volume and $\rho .dv$ is the total charge in the volume, we have:
 $$\int_{S} \vec{J}.d\vec{a}=-\frac{d}{dt}\int_{S}\rho.dv $$
 * By taking a infinitesimal small volume ( a point of x,y,z) the relation becomes
-$$\n $$
+* **In time-dependent charge distributions**
+$$\nabla.\vec{J}=-\frac{\partial{\rho}}{\partial{t}} $$
+# Ohm's Law
