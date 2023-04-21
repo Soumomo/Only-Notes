@@ -12,4 +12,9 @@ There were many questions that were faced in this context during the olden times
 
 Steward took 2mg slices of phloem tissue of carrot (Daucus carrotd) and grown in a liquid nutrient medium containing coconut water. The part of the plant is taken for tissue culture is known as Explants (Ex. Phloem tissue of Carrot root). The liquid nutrient medium containing explants was allowed some hours for shaking.
 ![[Pasted image 20230421092721.png]]
+Then the culture cell divide continuously to form mass of undifferentiated tissue known as callus. Some of these cell cluster started differentiating the initial of root. When it transfer to semi solid medium then it develop shoot system and give rise new plant. These plant then transfer to pot/soil where they develop in to flowing plant.
+
+##### Inference: 
+Steward experiment shows that in plant even mature (fully differentiated cells) can dedifferentiate, divide, come together re-differentiate and produced a new plant. Plant tissue derived form root, stem, leaf, vegetative bud, floral bud, anther & embryo can exhibit cellular totipotency.
+
 
