@@ -17,6 +17,14 @@ Then the culture cell divide continuously to form mass of undifferentiated tissu
 ##### Inference: 
 Steward experiment shows that in plant even mature (fully differentiated cells) can dedifferentiate, divide, come together re-differentiate and produced a new plant. Plant tissue derived form root, stem, leaf, vegetative bud, floral bud, anther & embryo can exhibit cellular totipotency.
 
+## John Gurdons Experiment:
+
+In 1962, John Gurdon removed the nucleus of a fertilized egg cell from a frog and replaced it with the nucleus of a cell taken from a tadpole's intestine. This modified egg cell grew into a new frog, proving that the mature cell still contained the genetic information needed to form all types of cells.
+![[Gurden+1962+–+Nuclear+transfer+Nucleus+of+intestinal+cell+replaced+nucleus+of+egg+cell;+Normal+tadpole+produced.jpg]]
+
+
+
+
 
 
 
