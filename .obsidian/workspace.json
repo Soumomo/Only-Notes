@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52e73a3d56210aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md",
+                "file": "Sem 2/BIO102/Developmental Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md",
+                "file": "Sem 2/BIO102/Developmental Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/BIO102/Molecules of Inheritance.md"
+                "file": "Sem 2/BIO102/Developmental Biology.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a10ece22bd1adfc",
+  "active": "52e73a3d56210aee",
   "lastOpenFiles": [
+    "Sem 2/BIO102/Developmental Biology.md",
+    "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/biosyll.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
-    "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/img"
   ]
 }
