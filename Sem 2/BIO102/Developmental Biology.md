@@ -10,7 +10,6 @@ There were many questions that were faced in this context during the olden times
 
 ## Fredrick Stewards Experiment:
 
-Steward took 2mg slices of 
-
-
+Steward took 2mg slices of phloem tissue of carrot (Daucus carrotd) and grown in a liquid nutrient medium containing coconut water. The part of the plant is taken for tissue culture is known as Explants (Ex. Phloem tissue of Carrot root). The liquid nutrient medium containing explants was allowed some hours for shaking.
+![[Pasted image 20230421092721.png]]
 
