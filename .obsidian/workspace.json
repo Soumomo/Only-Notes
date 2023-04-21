@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c4918ab3b1ee1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52e73a3d56210aee",
+  "active": "2c4918ab3b1ee1e0",
   "lastOpenFiles": [
+    "Sem 2/BIO102/Developmental Biology.md",
+    "conflict-files-obsidian-git.md",
+    "Sem 2/BIO102/Meiosis.md",
     "Gurden+1962+–+Nuclear+transfer+Nucleus+of+intestinal+cell+replaced+nucleus+of+egg+cell;+Normal+tadpole+produced.jpg",
     "Sem 2/BIO102/Molecules of Inheritance.md",
-    "Sem 2/BIO102/Developmental Biology.md",
     "Pasted image 20230421092721.png",
     "Sem 2/BIO102/biosyll.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
