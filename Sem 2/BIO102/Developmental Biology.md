@@ -5,4 +5,12 @@
 There were many questions that were faced in this context during the olden times and so to counter them came many theories. People claimed to see a **homunculus** inside a sperm cell in order to explain fertilization.
 
 **The main questions asked were: 
- 
+1. Are genes lost during development
+2. What exactly was the differential expression of genes.
+
+## Fredrick Stewards Experiment:
+
+Steward took 2mg slices of 
+
+
+
