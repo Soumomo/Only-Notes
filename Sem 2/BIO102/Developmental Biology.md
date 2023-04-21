@@ -18,3 +18,5 @@ Then the culture cell divide continuously to form mass of undifferentiated tissu
 Steward experiment shows that in plant even mature (fully differentiated cells) can dedifferentiate, divide, come together re-differentiate and produced a new plant. Plant tissue derived form root, stem, leaf, vegetative bud, floral bud, anther & embryo can exhibit cellular totipotency.
 
 
+
+
