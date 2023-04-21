@@ -24,3 +24,5 @@ $$\int_{S} \vec{J}.d\vec{a}=-\frac{d}{dt}\int_{S}\rho.dv $$
 * **In time-dependent charge distributions**
 $$\nabla.\vec{J}=-\frac{\partial{\rho}}{\partial{t}} $$
 # Ohm's Law
+* The linear relation between current density and Electric field is:
+$$\vec{J}=\sigma \vec{E} $$
