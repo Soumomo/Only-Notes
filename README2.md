@@ -9,4 +9,9 @@
 * SciPy
 * NumPy
 * pandas
-* [SciencePlots]()
+* [SciencePlots](https://github.com/garrettj403/SciencePlots)
+**Note**: For me, Vscode does not suppport latex styling in scienceplots, use `no-latex` style to bypass it
+
+# Learn:
+Repository has the Essentials folder for referencing the libraries used with a variety of useful functions.
+(More notes work in progress)
