@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "file": "Sem 2/PHY102/Current Electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "file": "Sem 2/PHY102/Current Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md",
+                "file": "Sem 2/PHY102/Current Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/BIO102/Developmental Biology.md"
+                "file": "Sem 2/PHY102/Current Electricity.md"
               }
             }
           }
@@ -159,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d2fd51f2cfc0617",
+  "active": "5a10ece22bd1adfc",
   "lastOpenFiles": [
+    "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
+    "Sem 2/BIO102/Developmental Biology.md",
     "README.md",
     "README2.md",
     "Sem 2/PHY102/Current Electricity.md",
-    "Sem 2/BIO102/Developmental Biology.md",
     "Sem 2/BIO102/Molecules of Inheritance.md",
     "Sem 2/BIO102/Meiosis.md",
     "conflict-files-obsidian-git.md",
