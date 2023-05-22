@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a10ece22bd1adfc",
+            "id": "50db4002160b3ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transforming Electric Fields.md",
+                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transforming Electric Fields.md",
+                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transforming Electric Fields.md",
+                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transforming Electric Fields.md"
+                "file": "Sem 2/PHY102/Transforming Electric Fields.md"
               }
             }
           }
@@ -155,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a10ece22bd1adfc",
+  "active": "50db4002160b3ca7",
   "lastOpenFiles": [
-    "Sem 2/PHY102/Fields of Moving Charges.md",
-    "Transforming Electric Fields.md",
-    "Sem 2/PHY102/Current Electricity.md",
     "CCharge Conservation.md",
+    "Sem 2/PHY102/Transforming Electric Fields.md",
+    "Sem 2/PHY102/Fields of Moving Charges.md",
+    "Sem 2/PHY102/Current Electricity.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
     "Sem 2/BIO102/Developmental Biology.md",
     "README.md",
