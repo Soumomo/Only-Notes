@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "742faf3767dcead8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "68cb1eb5e380aa26",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
