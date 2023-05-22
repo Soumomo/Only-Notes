@@ -4,4 +4,5 @@
 * 2 wires with opposite current repel each other.
 * This force only depends on the motion of charges not any static field.
 
-This interaction 
+This interaction can be described by adding a new /magnetic field/
+$$$$
