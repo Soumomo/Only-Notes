@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Fields of Moving Charges.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Fields of Moving Charges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Fields of Moving Charges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md"
+                "file": "Sem 2/PHY102/Fields of Moving Charges.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "5a10ece22bd1adfc",
   "lastOpenFiles": [
-    "CCharge Conservation.md",
-    "Sem 2/PHY102/Relativistic Electrodynamics.md",
     "Sem 2/PHY102/Current Electricity.md",
+    "Sem 2/PHY102/Fields of Moving Charges.md",
+    "CCharge Conservation.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
     "Sem 2/BIO102/Developmental Biology.md",
     "README.md",

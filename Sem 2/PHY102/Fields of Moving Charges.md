@@ -1,4 +1,4 @@
-[[Current Electricity]]
+[[Current Electricity]] 
 ## Magnetic Force
 
 * 2 wires with [[Current]] in same direction attract each other
@@ -37,4 +37,11 @@ It's interesting to see that Mass is not invariant in the same way. It can be pr
 Using frames F and F', the following result shows:
 >$$\int_{S(t)}{\vec{E}}.{d\vec{a}} \: = \: \int_{S'(t')}{\vec{E'}}.{d\vec{a'}} $$
 
-Note: Invariance is not same as [[]]
+Note: Invariance is not same as [[Current Electricity#1.2 Charge Conservation|Charge Conservation]] 
+Charge conservation implies that, if we take a closed surface fixed in
+some coordinate system and containing some charged matter, and if no
+particles cross the boundary, then the total charge inside that surface
+remains constant.
+Charge invariance implies that, if we look at this collection of stuff from any other frame of reference, we will measure exactly the same amount of charge. 
+Energy is conserved, but energy is not a relativistic invariant. Charge is conserved, and charge is a relativistic invariant. 
+
