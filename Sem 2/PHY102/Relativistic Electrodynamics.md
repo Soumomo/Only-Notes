@@ -18,4 +18,4 @@ Why is magnetic force proportional to the velocity?
 
 This requires a bit of thought, we use coulomb's technique of using test charges to measure our desired charge in motion. But due to special direction of force, i.e the direction of the velocity, we get varied results for the same Q. 
 
-We decide t
+We decide to average out the
