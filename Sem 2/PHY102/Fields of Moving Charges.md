@@ -1,4 +1,4 @@
-[[Current Electricity]] 
+[[Current Electricity]] [[Transforming Electric Fields]] 
 ## Magnetic Force
 
 * 2 wires with [[Current]] in same direction attract each other
