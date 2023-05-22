@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Relatisvistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6a0a1b0969580c73",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Relatisvistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Relatisvistic Electrodynamics.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Relatisvistic Electrodynamics.md"
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics.md"
               }
             }
           }
@@ -180,7 +181,7 @@
   "active": "68cb1eb5e380aa26",
   "lastOpenFiles": [
     "Sem 2/PHY102/Current Electricity.md",
-    "Sem 2/PHY102/Relatisvistic Electrodynamics.md",
+    "Sem 2/PHY102/Relativistic Electrodynamics.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
     "Sem 2/BIO102/Developmental Biology.md",
     "README.md",
