@@ -5,4 +5,5 @@
 * This force only depends on the motion of charges not any static field.
 
 This interaction can be described by adding a new /magnetic field/
-$$$$
+>$$\vec{F} = q \vec{E} \: + \: q \vec{v} \times \vec{B} $$
+
