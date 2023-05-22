@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "742faf3767dcead8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "60283c896b841414",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "35fffb6be1c66965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -158,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a10ece22bd1adfc",
+  "active": "742faf3767dcead8",
   "lastOpenFiles": [
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
     "Sem 2/BIO102/Developmental Biology.md",
