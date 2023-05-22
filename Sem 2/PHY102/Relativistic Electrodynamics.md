@@ -30,4 +30,7 @@ We can take it as an experimental fact that Gauss' law works for moving charges 
 
 **Charge does not depend on motion**. This can be seen as even if subatomic particles move at very high kinetic energies, their charges cancel out to get perfectly neutral atoms.
 
-It's interesting to see that Mass is not invariant in the same way. 
+It's interesting to see that Mass is not invariant in the same way. It can be proofed experimentally by mass spectographs using helium ions.
+
+Using frames F and F', the following result shows:
+>$$\$$
