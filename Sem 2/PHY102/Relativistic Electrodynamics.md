@@ -22,4 +22,4 @@ This requires a bit of thought, we use coulomb's technique of using test charges
 We decide to average out for all directions to measure Q. Imagine a large number of infinitesimal test charges Q on a sphere at rest. When the moving chrage passes through the centre of the sphere, we measure the radial components of the force. This is similar to how we measure Electric field.
 
 Electric charge is defined by:
->$$Q=\epsilon_0$$
+>$$Q=\epsilon_0 \int_{S(t)}{\vec{E}}\{d\vec{a}}$$
