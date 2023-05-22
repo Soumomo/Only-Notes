@@ -25,3 +25,9 @@ Electric charge is defined by:
 >$$Q=\epsilon_0 \int_{S(t)}{\vec{E}}.{d\vec{a}}$$
 
 We can take it as an experimental fact that Gauss' law works for moving charges as well.
+
+## Invariance of Charge
+
+**Charge does not depend on motion**. This can be seen as even if subatomic particles move at very high kinetic energies, their charges cancel out to get perfectly neutral atoms.
+
+It's interesting to see that Mass is not invariant in the same way. 
