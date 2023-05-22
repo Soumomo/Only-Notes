@@ -11,4 +11,9 @@ but we know charge is invariant so to compromise length contraction, the charge 
 
 We know from previous discussion, E outside is 0. Create a stationary gaussian surface respect to F' and measure E from it, we get
 >$$\vec{E'_z}=\frac{\sigma'}{\epsilon_0}=\frac{\gamma\:\sigma}{\epsilon_0}=\gamma\:\vec{Ez} $$
+>Also $$\vec{E'_x}=\vec{E_x} $$
 
+This result is generally valid for all charge distributions. || refers to direction of velocity of motion of frame F'
+
+>$$\vec{E'_{||}}=\vec{E_{||}} $$
+>$$\vec{E'_{\perp}}=\gamma \: \vec{E_{\perp}} $$
