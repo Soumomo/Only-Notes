@@ -10,4 +10,5 @@ but we know charge is invariant so to compromise length contraction, the charge 
 >$$\sigma'=\frac{\sigma}{\sqrt{1-v^2/c^2}}$$
 
 We know from previous discussion, E outside is 0. Create a stationary gaussian surface respect to F' and measure E from it, we get
->$$\vec{E'_z}=\frac{\sigma'}{\epsilon_0}= $$
+>$$\vec{E'_z}=\frac{\sigma'}{\epsilon_0}=\frac{\gamma\:\sigma}{\epsilon_0}=\gamma\:\vec{Ez} $$
+
