@@ -33,4 +33,6 @@ We can take it as an experimental fact that Gauss' law works for moving charges 
 It's interesting to see that Mass is not invariant in the same way. It can be proofed experimentally by mass spectographs using helium ions.
 
 Using frames F and F', the following result shows:
->$$\$$
+>$$\int_{S(t)}{\vec{E}}.{d\vec{a}} \: = \: \int_{S'(t')}{\vec{E'}}.{d\vec{a'}} $$
+
+Note: Invariance is not same a

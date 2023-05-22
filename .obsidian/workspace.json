@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Current Electricity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68cb1eb5e380aa26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Sem 2/PHY102/Relativistic Electrodynamics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68cb1eb5e380aa26",
+  "active": "5a10ece22bd1adfc",
   "lastOpenFiles": [
     "Sem 2/PHY102/Current Electricity.md",
     "Sem 2/PHY102/Relativistic Electrodynamics.md",
