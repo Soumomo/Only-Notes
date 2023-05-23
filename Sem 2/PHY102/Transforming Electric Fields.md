@@ -1,4 +1,4 @@
-[[Fields of Moving Charges]]                                                            [[Force on a moving charge|Next]]
+[[Fields of Moving Charges|Previous]]                                                                                [[Force on a moving charge|Next]]
 
 
 This example consists of a capacitor system.

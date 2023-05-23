@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
+                "file": "Force on a moving charge.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
+                "file": "Force on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Transforming Electric Fields.md",
+                "file": "Force on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Transforming Electric Fields.md"
+                "file": "Force on a moving charge.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "50db4002160b3ca7",
   "lastOpenFiles": [
-    "CCharge Conservation.md",
     "Sem 2/PHY102/Transforming Electric Fields.md",
+    "Force on a moving charge.md",
+    "CCharge Conservation.md",
     "Sem 2/PHY102/Fields of Moving Charges.md",
     "Sem 2/PHY102/Current Electricity.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
