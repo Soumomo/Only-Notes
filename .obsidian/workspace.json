@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+                "file": "Electromotive Force.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+                "file": "Electromotive Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+                "file": "Electromotive Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md"
+                "file": "Electromotive Force.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "2eeebc0c8c7a93be",
   "lastOpenFiles": [
-    "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
     "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+    "Electromotive Force.md",
+    "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Transforming Electric Fields.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
     "Sem 2/PHY102/Electromagnetic Induction",
