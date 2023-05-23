@@ -1,3 +1,6 @@
+[[Transforming Electric Fields|Previous]]                                                                                            [[Moving charge with Moving charge|Next]]
+
+
 >Question:
 >What is the force that acts on a moving charge that moves in the field of another moving charge?
 
@@ -15,5 +18,6 @@ From E we find find E' so F' is known, only problem is to transform F' to F. Fro
 From this we find that
 >$$F_{||}=qE_{||} $$
 >$$F_{\perp}=qE_{\perp} $$
+
 
 
