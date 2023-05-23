@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md"
+                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md"
               }
             }
           }
@@ -154,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d2fd51f2cfc0617",
+  "active": "50db4002160b3ca7",
   "lastOpenFiles": [
+    "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
     "Sem 2/PHY102/Electromagnetic Induction",
     "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Transforming Electric Fields.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Fields of Moving Charges.md",
     "Sem 2/PHY102/Relativistic Electrodynamics",
-    "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
     "CCharge Conservation.md",
     "Sem 2/PHY102/Current Electricity.md",
     "Sem 2/PHY102/Introduction To Electrodynamics_4 [Griffiths].pdf",
