@@ -12,3 +12,8 @@ From E we find find E' so F' is known, only problem is to transform F' to F. Fro
 
 **The perpendicular force is larger when you sit on the particle**
 
+From this we find that
+>$$F_{||}=qE_{||} $$
+>$$F_{\perp}=qE_{\perp} $$
+
+
