@@ -22,3 +22,5 @@ This result is generally valid for all charge distributions. || & $\perp$ refers
 >$$\vec{E'_{\perp}}=\gamma \: \vec{E_{\perp}} $$
 
 **Perpendicular field is smallest if you sit on the source**
+
+More reading: Example with figure 5.21 (Purcell)
