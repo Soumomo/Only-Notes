@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2eeebc0c8c7a93be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
+                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
+                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md"
+                "file": "Sem 2/PHY102/Electromagnetic Induction/Formulas.md"
               }
             }
           }
@@ -155,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50db4002160b3ca7",
+  "active": "2eeebc0c8c7a93be",
   "lastOpenFiles": [
-    "Sem 2/PHY102/Relativistic Electrodynamics/Transforming Electric Fields.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
+    "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
+    "Sem 2/PHY102/Relativistic Electrodynamics/Transforming Electric Fields.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Moving charge with Moving charge.md",
     "Sem 2/PHY102/Electromagnetic Induction",
     "Sem 2/PHY102/Relativistic Electrodynamics/Fields of Moving Charges.md",
