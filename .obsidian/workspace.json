@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "20966e9cc6501efc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20966e9cc6501efc",
+  "active": "50db4002160b3ca7",
   "lastOpenFiles": [
     "CCharge Conservation.md",
     "Sem 2/PHY102/Transforming Electric Fields.md",
