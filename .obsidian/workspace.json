@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Induction.md",
+                "file": "Motional EMF in a rod.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Induction.md",
+                "file": "Motional EMF in a rod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Induction.md",
+                "file": "Motional EMF in a rod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electromagnetic Induction.md"
+                "file": "Motional EMF in a rod.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "2eeebc0c8c7a93be",
   "lastOpenFiles": [
-    "Motional EMF in a rod.md",
     "Electromagnetic Induction.md",
+    "Motional EMF in a rod.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Force on a moving charge.md",
     "Sem 2/PHY102/Electromagnetic Induction/Formulas.md",
     "Sem 2/PHY102/Relativistic Electrodynamics/Transforming Electric Fields.md",
